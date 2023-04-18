@@ -76,6 +76,7 @@ The first two dropdowns set, in order, which webpage you're searching for: All, 
 👤 **Pedro Hasse Niemczewski**
 
 * Github: [@pedrohassen](https://github.com/pedrohassen)
+* Linkedin: [Pedro Hasse Niemczewski](https://www.linkedin.com/in/pedrohassen/)
 
 ## support
 
