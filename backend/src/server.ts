@@ -1,10 +1,5 @@
-import { SearchFactory } from "./api/factory/SearchFactory";
-import App from "./app";
+import app from "./app";
 
-const searchFactory = SearchFactory.createSearchRouter();
-const server = new App();
-
-server.addRouter(searchFactory);
-server.startServer();
-
-export default server;
+app.listen(3001, () => {
+  console.log("Server is running on port 3001");
+})
